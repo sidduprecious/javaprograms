@@ -1,0 +1,63 @@
+Perfect 👍 — here are **EPAM-favorite program TITLES only** for **QA Automation (Java)** practice:
+
+---
+
+## ✅ NUMBER PROGRAMS
+
+1. Prime number check
+2. Print prime numbers in a range
+3. Sum of first N prime numbers
+4. Fibonacci series
+5. Nth Fibonacci number
+6. Palindrome number
+7. Armstrong number
+8. Reverse a number
+9. Factorial of a number
+10. Sum of digits of a number
+
+---
+
+## ✅ ARRAY PROGRAMS
+
+11. Find largest and smallest element
+12. Find second largest element
+13. Reverse an array
+14. Sort array without using sort()
+15. Remove duplicate elements
+16. Frequency of each element
+17. Move zeros to end of array
+18. Find missing number in array
+19. Merge two arrays
+20. Check if array is sorted
+
+---
+
+## ✅ STRING PROGRAMS
+
+21. Reverse a string
+22. Check palindrome string
+23. Count characters in string
+24. Count words in sentence
+25. Reverse each word in sentence
+26. Remove duplicate characters
+27. First non-repeated character
+28. First repeated character
+29. Check anagram strings
+30. String compression (aaabb → a3b2)
+
+---
+
+## ✅ COMBINATION / LOGIC
+
+31. Swap two numbers without temp
+32. Pattern printing (stars/numbers)
+33. Find duplicate words in sentence
+34. Character with maximum frequency
+35. Longest word in a sentence
+
+---
+
+If you want next, I can give you:
+👉 **EPAM QA Automation theory questions list** (TestNG, Selenium, Java)
+or
+👉 I can start giving **programs one by one with explanation** from this list.
